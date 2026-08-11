@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "8ead6bdd9d569257",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f5a127d346b843b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fd0ec0da44420b5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vogels-Textbook-of-Practical-Organic-Chemistry-5thEd.Longman.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vogels-Textbook-of-Practical-Organic-Chemistry-5thEd.Longman"
+            }
+          },
+          {
+            "id": "21edbe99a1b2de0f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "brauer_ocr.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "brauer_ocr"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3501d637e7151be0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95697d45a5b7d92e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Idrogeno.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Idrogeno"
+            }
+          },
+          {
+            "id": "8a2f843839b1104f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Perossido di idrogeno.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Perossido di idrogeno"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6184a0471c42c04",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bd1954cafbe86da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31595ff4959778d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora file"
+            }
+          },
+          {
+            "id": "cd29072ec39531a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "f28104bfcc094a78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8524c403dc09cd63",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d63375b1f7a2e1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e875722af93ce49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "brauer_ocr.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "4f138f310c0df937",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "brauer_ocr.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "156215fb447af7c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "f9ba449a0f5c59f4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "8c1f6ecff19c205e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "brauer_ocr.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selettore rapido": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "obsidian-git:Open Git source control": false,
+      "chemedit-universal:Draw New Molecule": false
+    }
+  },
+  "active": "21edbe99a1b2de0f",
+  "lastOpenFiles": [
+    "inbox/Perossido di idrogeno.md",
+    "inbox/Acido deutero-fosforico.md",
+    "inbox/Ammoniaca trideuterata.md",
+    "inbox/Acido deuteriosolforico.md",
+    "inbox/Solfuro di deuterio.md",
+    "inbox/Ioduro di deuterio.md",
+    "inbox/Bromuro di deuterio.md",
+    "inbox/Cloruro di deuterio.md",
+    "inbox/Fluoruro di deuterio.md",
+    "inbox/Idruro di deuterio.md",
+    "inbox/Di-deuterio.md",
+    "inbox/Deuterio e suoi composti.md",
+    "inbox/Acqua Pura.md",
+    "inbox/Idrogeno.md",
+    "brauer_ocr.pdf",
+    "Vogels-Textbook-of-Practical-Organic-Chemistry-5thEd.Longman.pdf",
+    "brauer_ocr (1).pdf",
+    "Non confermato 499244.crdownload",
+    "inbox/README.md",
+    "Brauer/README.md"
+  ]
+}
